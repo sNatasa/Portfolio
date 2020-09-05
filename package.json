@@ -1,0 +1,16 @@
+{
+  "name": "portfolioNEW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d portfolioNEW"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage" : "https://sNatasa.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
